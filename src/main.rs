@@ -1,6 +1,5 @@
 use std::io;
 use bip39::{Mnemonic, MnemonicType, Language};
-// use solana_sdk::signature::{keypair_from_seed_phrase_and_passphrase, write_keypair_file};
 
 #[allow(warnings)]
 fn main() {
